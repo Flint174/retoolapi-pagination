@@ -1,0 +1,21 @@
+.container {
+  display: grid;
+  grid-template-columns: [labels] auto [controls] 1fr;
+  grid-auto-flow: row;
+  grid-gap: 0.8em;
+  padding: 1.2em;
+}
+
+.container > label {
+  grid-column: labels;
+  grid-row: auto;
+}
+
+.container > input {
+  grid-column: controls;
+  grid-row: auto;
+}
+
+.container > button {
+  grid-column: span 2;
+}
