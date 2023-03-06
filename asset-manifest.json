@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/retool-pagination/static/css/main.650e1a2c.css",
+    "main.js": "/retool-pagination/static/js/main.011847d4.js",
+    "static/js/787.7aaac171.chunk.js": "/retool-pagination/static/js/787.7aaac171.chunk.js",
+    "index.html": "/retool-pagination/index.html",
+    "main.650e1a2c.css.map": "/retool-pagination/static/css/main.650e1a2c.css.map",
+    "main.011847d4.js.map": "/retool-pagination/static/js/main.011847d4.js.map",
+    "787.7aaac171.chunk.js.map": "/retool-pagination/static/js/787.7aaac171.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.650e1a2c.css",
+    "static/js/main.011847d4.js"
+  ]
+}
