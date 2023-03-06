@@ -25,7 +25,7 @@
 
 ```
 git clone https://github.com/Flint174/retoolapi-pagination.git
-cd retool-pagination
+cd retoolapi-pagination
 ```
 
 Установить зависимости
